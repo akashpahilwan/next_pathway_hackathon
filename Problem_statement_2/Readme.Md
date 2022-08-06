@@ -40,3 +40,5 @@ month = utc_now(“MM”)
 year = utc_now(“yyyy”)
 curr_dt = day + “/” + month + “/” + year
 ```
+
+Now refer [pb1_solution.py](./pb2_solution.ipynb) for my submission.
